@@ -15,9 +15,9 @@ Run `pip install Flask`
 
 After installation:
 
-    Type `python main.py` in terminal, or Run using the code runner extension
+- Type `python main.py` in terminal, or Run using the code runner extension
 
-    Ctrl+click the link that the website is running on
+- Ctrl+click the link that the website is running on
 
 That's it! 
 
@@ -30,7 +30,7 @@ Python Debugger
 
 NPM Scripts
 
-### Additional Cool Extensions:
+## Additional Cool Extensions:
 Code Runner
 
 Python Indent
