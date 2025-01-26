@@ -30,7 +30,7 @@ Python Debugger
 
 NPM Scripts
 
-# Additional Cool Extensions:
+### Additional Cool Extensions:
 Code Runner
 
 Python Indent
