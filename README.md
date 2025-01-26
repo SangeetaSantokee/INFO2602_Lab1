@@ -15,7 +15,7 @@ Name: Sangeeta Santokee
 
 - After installation:
 
-    - Type `python main.py` in terminal, or Run using the code runner extension
+    - Run `python main.py` in terminal, or Run using the code runner extension
 
     - Ctrl+click the link that the website is running on
 
