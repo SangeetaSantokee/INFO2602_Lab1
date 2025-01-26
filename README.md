@@ -8,35 +8,35 @@ StudentID: 816039114
 
 Name: Sangeeta Santokee
 
-# To be able to run Flask on your machines:
--> Open Terminal and go to Command prompt
+# Running Flask on your machines:
+Open Terminal and go to Command prompt
 
--> Run `pip install Flask`
+Run `pip install Flask`
 
--> After installation;
+After installation:
 
-    - Type `python main.py` in terminal, or Run using the code runner extension
+    Type `python main.py` in terminal, or Run using the code runner extension
 
-    - Ctrl+click the link that the website is running on
+    Ctrl+click the link that the website is running on
 
--> That's it! 
+That's it! 
 
 # Important Extensions For vscode:
--> Deno
+Deno
 
--> Python
+Python
 
--> Python Debugger
+Python Debugger
 
--> NPM Scripts
+NPM Scripts
 
 # Additional Cool Extensions:
--> Code Runner
+Code Runner
 
--> Python Indent
+Python Indent
 
--> Python Extension Pack
+Python Extension Pack
 
--> Django
+Django
 
 That's All For Now!
