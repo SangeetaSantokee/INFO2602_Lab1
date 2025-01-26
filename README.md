@@ -21,7 +21,7 @@ After installation:
 
 That's it! 
 
-# Important Extensions For vscode:
+# Important Extensions For VS Code:
 Deno
 
 Python
