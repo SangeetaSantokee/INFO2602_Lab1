@@ -4,9 +4,6 @@ Web Programming and Technologies I Lab 1
 Hello!
 Welcome to my Git Repo for Lab 1
 
-StudentID: 816039114
-
-Name: Sangeeta Santokee
 
 # Running Flask on your machines:
 - Open Terminal and go to Command prompt
